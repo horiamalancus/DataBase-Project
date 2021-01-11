@@ -1,0 +1,9 @@
+Executabilul se gaseste in folderul dist sub denumirea Meniu_digital_restaurant.jar.
+
+Sursele proiectului se gasesc in folderul src.
+
+Scripturile de creare tabele si inserare date se gasesc in folderul res -> ulterior in folderul Script-uri.
+
+Pentru o functionare corecta folderul res trebuie copiat in folderul dist. Nu am facut acest lucru dinainte, deoarece 
+ar fi marit prea mult dimensiunea arhivei dublarea folderului res, astfel nu ne-am fi incadrat in dimensiunea maxima de 
+pe Moodle
